@@ -1,0 +1,46 @@
+#dates {
+  outline: blue dashed thin;
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+}
+
+#dates p {
+  width: 10%;
+  text-align: center;
+}
+
+#dates > div {
+  display: flex;
+  justify-content: space-around;
+  margin: 10px;
+}
+
+#session-container > div {
+  outline: green dashed thin;
+  display: flex;
+
+}
+
+.date {
+  outline: blue dashed thin;
+  width: 10%;
+  height: 70px;
+}
+
+.session {
+  display: flex;
+  justify-content: space-around;
+}
+
+.selected {
+  background-color: skyblue;
+}
+
+.hidden {
+  display: none;
+}
+
+.prev-next {
+  outline: red dashed thin;
+}
