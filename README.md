@@ -7,5 +7,3 @@ External Resources:
   - SmtpJS to email meeting links to students
   - Heroku to host website
   - Integrated Heroku Postgresql database to store all data
-
-The backend code is omitted since it contains sensitive information.
